@@ -11,9 +11,11 @@
 
 
 
-### GitHub Stats
+### GitHub and Codewars Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dtkalla)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://www.codewars.com/users/dkalla/badges/large)
 
 
 
