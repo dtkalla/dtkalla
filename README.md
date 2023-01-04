@@ -2,7 +2,7 @@
 
 ### Introduction
 
-- 👀 I’m interested in an in-person junior software engineer position with opportunities for growth
+- 👀 I’m interested in an in-person software engineer position with opportunities for growth
 - 🌱 I’m currently learning how to adapt single-page web applications to work on mobile
 - 📫 How to reach me: email me at dkalla@marlboro.edu or message me on [LinkedIn](linkedin.com/in/daniel-kalla-496aa7234/)
 - 🍎 Background: before I started software engineering, I worked as a math and foreign language teacher.  I'm fluent in Spanish and French!
