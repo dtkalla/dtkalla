@@ -18,7 +18,8 @@
 
 ### GitHub and Codewars Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dtkalla)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dtkalla&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dtkalla&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://www.codewars.com/users/dkalla/badges/large)
 
