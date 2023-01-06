@@ -28,7 +28,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtkalla&layout=compact" />
 </a> -->
 
-<!-- [![dtkalla's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dtkalla)](https://github.com/anuraghazra/github-readme-stats) -->
+[![dtkalla's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dtkalla)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
