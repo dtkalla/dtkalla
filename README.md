@@ -24,7 +24,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dtkalla&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Codewars
-![Codewars](https://github.r2v.ch/codewars?user=dkalla)
+![Codewars](https://github.r2v.ch/codewars?user=dkalla&top_languages=true)
 <!-- ![](https://www.codewars.com/users/dkalla/badges/large) -->
 
 #### Wakatime (past week)
