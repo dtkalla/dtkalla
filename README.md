@@ -20,15 +20,15 @@
 
 #### GitHub
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dtkalla&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dtkalla&layout=compact&langs_count=6&exclude_repo=portfolio-site)](https://github.com/anuraghazra/github-readme-stats)
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dtkalla&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages on GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=dtkalla&layout=compact&langs_count=6&exclude_repo=portfolio-site)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Codewars
-![Codewars](https://github.r2v.ch/codewars?user=dkalla&top_languages=true)
+![Daniel's Codewars stats -- 3 kyu, 1520 honor, top 2.5%](https://github.r2v.ch/codewars?user=dkalla&top_languages=true)
 <!-- ![](https://www.codewars.com/users/dkalla/badges/large) -->
 
 #### Wakatime (past week)
-[![dtkalla's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dtkalla&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Daniel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dtkalla&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
