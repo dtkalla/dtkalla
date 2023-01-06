@@ -28,9 +28,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtkalla&layout=compact" />
 </a> -->
 
-[![dtkalla's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dtkalla)](https://github.com/anuraghazra/github-readme-stats)
+[![dtkalla's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dtkalla&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ![](https://www.codewars.com/users/dkalla/badges/large)
 
