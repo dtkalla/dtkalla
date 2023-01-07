@@ -25,7 +25,7 @@
 
 #### Codewars, Project Euler
 ![Daniel's Codewars stats -- 3 kyu, 1520 honor, top 2.5%](https://github.r2v.ch/codewars?user=dkalla&top_languages=true)
-![Project Euler -- top 5%](https://projecteuler.net/profile/dkalla.png)
+<!-- ![Project Euler -- top 5%](https://projecteuler.net/profile/dkalla.png) -->
 <!-- ![](https://www.codewars.com/users/dkalla/badges/large) -->
 
 #### Wakatime (past week)
