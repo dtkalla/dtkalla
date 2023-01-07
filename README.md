@@ -31,6 +31,16 @@
 [![Daniel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dtkalla&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+
+```text
+Ruby         50 mins         ██████████████████░░░░░░░   72.35 %
+Python       11 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.77 %
+JavaScript   7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+```
+
 <!--END_SECTION:waka-->
 
 
