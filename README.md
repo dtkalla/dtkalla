@@ -24,7 +24,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=dtkalla&theme=juicyfresh&no-bg=true" />
 
 
-[![Daniel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dtkalla&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Daniel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dtkalla&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
