@@ -2,7 +2,7 @@
 
 ### Introduction
 
-- 👀 I’m interested in an in-person software engineering position with opportunities for growth
+- 👀 I’m interested in an on-site software engineering position with opportunities for growth
 - ⚕️ I’m currently working on making a mobile version of [Disease Tracker](https://dtkalla.github.io/Disease-Tracker/)
 - 📫 How to reach me: email me at dkalla@marlboro.edu or message me on [LinkedIn](www.linkedin.com/in/daniel-kalla)
 - 🍎 Background: before I started software engineering, I worked as a math and foreign language teacher.  I'm fluent in Spanish and French!
