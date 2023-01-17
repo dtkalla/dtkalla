@@ -34,7 +34,7 @@
 <details><summary>Additional Stats</summary>
  
   
-Top 2.5% on <a href='https://www.codewars.com/users/dkalla'>Codewars</a>, top 5% on Project Euler, top 10% on <a href='https://leetcode.com/dtkalla/'>LeetCode</a>
+Links to <a href='https://www.codewars.com/users/dkalla'>Codewars</a>, <a href='https://leetcode.com/dtkalla/'>LeetCode</a>
 
 
 ![Daniel's Codewars stats -- 3 kyu, 1558 honor, top languages: Ruby, Python, JavaScript](https://github.r2v.ch/codewars?user=dkalla&top_languages=true)
