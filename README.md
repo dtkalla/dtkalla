@@ -32,7 +32,9 @@
 [![Daniel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dtkalla&layout=compact&langs_count=6&custom_title=Wakatime%20Stats%20(Past%20Seven%20Days))](https://github.com/anuraghazra/github-readme-stats)
   
 <details><summary>Additional Stats</summary>
+  
 Top 2.5% on Codewars, top 5% on Project Euler, top 10% on LeetCode
+
 
 ![Daniel's Codewars stats -- 3 kyu, 1558 honor, top languages: Ruby, Python, JavaScript](https://github.r2v.ch/codewars?user=dkalla&top_languages=true)
 
