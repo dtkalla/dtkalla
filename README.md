@@ -39,7 +39,7 @@ Links to <a href='https://www.codewars.com/users/dkalla'>Codewars</a>, <a href='
 
 ![Daniel's Codewars stats -- 3 kyu, 1558 honor, top languages: Ruby, Python, JavaScript](https://github.r2v.ch/codewars?user=dkalla&top_languages=true)
 
-![Project Euler -- 53 solved](https://projecteuler.net/profile/dkalla.png)
+<!-- ![Project Euler -- 53 solved](https://projecteuler.net/profile/dkalla.png) -->
 
 [![Daniel's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=dtkalla)](https://github.com/madushadhanushka/github-readme)
 </details>
