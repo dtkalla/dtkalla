@@ -29,7 +29,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=dtkalla&theme=juicyfresh&no-bg=true&rank=-C" />
 
 
-[![Daniel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dtkalla&layout=compact&langs_count=6&custom_title=Wakatime%20Stats%20(Past%20Seven%20Days))](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Daniel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dtkalla&layout=compact&langs_count=6&custom_title=Wakatime%20Stats%20(Past%20Seven%20Days))](https://github.com/anuraghazra/github-readme-stats) -->
   
 <details><summary>Additional Stats</summary>
  
