@@ -41,8 +41,11 @@ Links to <a href='https://www.codewars.com/users/dkalla'>Codewars</a>, <a href='
 
 ![Project Euler -- 53 solved](https://projecteuler.net/profile/dkalla.png)
 
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=dtkalla)
 [![Daniel's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=dtkalla)](https://github.com/madushadhanushka/github-readme)
+
 </details>
+
 
 
 <!---
