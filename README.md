@@ -31,20 +31,22 @@
 
 <!-- [![Daniel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dtkalla&layout=compact&langs_count=6&custom_title=Wakatime%20Stats%20(Past%20Seven%20Days))](https://github.com/anuraghazra/github-readme-stats) -->
   
-<details><summary>Additional Stats</summary>
- 
+<details><summary><a href='https://www.codewars.com/users/dkalla'>Codewars</a></summary>
   
-Links to <a href='https://www.codewars.com/users/dkalla'>Codewars</a>, <a href='https://leetcode.com/dtkalla/'>LeetCode</a>
-
-
 ![Daniel's Codewars stats -- 3 kyu, 1558 honor, top languages: Ruby, Python, JavaScript](https://github.r2v.ch/codewars?user=dkalla&top_languages=true)
-![Project Euler -- 53 solved](https://projecteuler.net/profile/dkalla.png)
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=dtkalla" alt="LeetCode Badges"/>
+</details>
+
+
+<details><summary><a href='https://leetcode.com/dtkalla/'>LeetCode</a></summary>
   
 [![Daniel's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=dtkalla)](https://github.com/madushadhanushka/github-readme)
 
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=dtkalla" alt="LeetCode Badges"/>
+  
 </details>
+ 
+
 
 
 
