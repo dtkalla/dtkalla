@@ -12,9 +12,9 @@
 
 ### Technologies
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,react,redux,mongodb,express,nodejs,d3,ruby,rails,py,html,css,sqlite,r&perline=7)](https://skills.thijs.gg)
+<!-- [![My Skills](https://skills.thijs.gg/icons?i=js,react,redux,mongodb,express,nodejs,d3,ruby,rails,py,html,css,sqlite,r&perline=7)](https://skills.thijs.gg) -->
 
-<!-- [![My Skills](https://skills.thijs.gg/icons?i=js,react,redux,mongodb,express,nodejs,d3,ruby,rails,py,html,css,sass,webpack,vscode,git,sqlite,postgres,r,latex&perline=10)](https://skills.thijs.gg) -->
+[![My Skills](https://skills.thijs.gg/icons?i=js,react,redux,mongodb,express,nodejs,d3,ruby,rails,py,html,css,sass,webpack,vscode,git,sqlite,postgres,r,latex&perline=10)](https://skills.thijs.gg)
 
 <!-- ### Projects
 <details open>
