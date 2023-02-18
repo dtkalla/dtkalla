@@ -39,7 +39,7 @@
 
 <details><summary><a href='https://leetcode.com/dtkalla/'>LeetCode</a></summary>
   
-[![Daniel's LeetCode stats -- top 3% of users by number of problems solved](https://leetcode-stats-six.vercel.app/api?username=dtkalla)](https://github.com/madushadhanushka/github-readme)
+[![Daniel's LeetCode stats -- top 2% of users by number of problems solved](https://leetcode-stats-six.vercel.app/api?username=dtkalla)](https://github.com/madushadhanushka/github-readme)
 
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=dtkalla)
 
@@ -48,7 +48,7 @@
 
 <details><summary><a href='https://www.codewars.com/users/dkalla'>Codewars</a></summary>
   
-![Daniel's Codewars stats -- 3 kyu, 1696 honor, top languages: Ruby, Python, JavaScript](https://github.r2v.ch/codewars?user=dkalla&top_languages=true)
+![Daniel's Codewars stats -- 3 kyu, 1696 honor (top 2%), top languages: Ruby, Python, JavaScript](https://github.r2v.ch/codewars?user=dkalla&top_languages=true)
 
 </details>
  
