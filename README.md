@@ -16,7 +16,7 @@
 
 <!-- [![My Skills](https://skills.thijs.gg/icons?i=js,react,redux,mongodb,express,nodejs,d3,ruby,rails,py,html,css,sqlite,r&perline=7)](https://skills.thijs.gg) -->
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,react,redux,mongodb,express,nodejs,d3,ruby,rails,py,html,css,sass,webpack,vscode,git,sqlite,postgres,r,latex&perline=10)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,react,redux,mongodb,express,nodejs,d3,ruby,rails,py,html,css,sass,webpack,vscode,postman,git,sqlite,r,latex&perline=10)](https://skills.thijs.gg)
 
 <!-- ### Projects
 <details open>
@@ -39,7 +39,7 @@
 
 <details><summary><a href='https://leetcode.com/dtkalla/'>LeetCode</a></summary>
   
-[![Daniel's LeetCode stats -- top 2% of users by number of problems solved](https://leetcode-stats-six.vercel.app/api?username=dtkalla)](https://github.com/madushadhanushka/github-readme)
+[![Daniel's LeetCode stats -- top 1.2% of users by number of problems solved](https://leetcode-stats-six.vercel.app/api?username=dtkalla)](https://github.com/madushadhanushka/github-readme)
 
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=dtkalla)
 
