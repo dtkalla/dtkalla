@@ -39,7 +39,7 @@
 
 <details><summary><a href='https://leetcode.com/dtkalla/'>LeetCode</a></summary>
   
-[![Daniel's LeetCode stats -- top 1.2% of users by number of problems solved](https://leetcode-stats-six.vercel.app/api?username=dtkalla)](https://github.com/madushadhanushka/github-readme)
+[![Daniel's LeetCode stats -- top 1% of users by number of problems solved](https://leetcode-stats-six.vercel.app/api?username=dtkalla)](https://github.com/madushadhanushka/github-readme)
 
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=dtkalla)
 
