@@ -18,12 +18,11 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,react,redux,mongodb,express,nodejs,d3,ruby,rails,py,html,css,sass,webpack,vscode,postman,git,sqlite,r,latex&perline=10)](https://skills.thijs.gg)
 
-<!-- ### Projects
-<details open>
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dtkalla&repo=WaterBnB)](https://github.com/anuraghazra/github-readme-stats)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dtkalla&repo=-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dtkalla&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-</details> -->
+### Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dtkalla&repo=WaterBnB)](https://github.com/dtkalla/WaterBnB)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dtkalla&repo=Disease-Tracker)](https://github.com/dtkalla/Disease-Tracker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dtkalla&repo=Choose-Your-News)](https://github.com/dtkalla/Choose-Your-News)
 
 
 ### Coding Stats
@@ -50,11 +49,14 @@
   
 ![Daniel's Codewars stats -- 3 kyu, 1,782 honor (top 2%), top languages: Ruby, Python, JavaScript, SQL](https://github.r2v.ch/codewars?user=dkalla&top_languages=true)
 
-
-
   
 </details>
  
+
+<!--  ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg) -->
+
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
 
 
 
