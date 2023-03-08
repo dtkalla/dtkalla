@@ -3,7 +3,7 @@
 ### Introduction
 
 - 👀 I’m interested in an on-site software engineering position with opportunities for growth.
-- 📖 I’m currently studying data structures and algorithms.
+- ⚕️ I’m currently working on a mobile version of [Disease Tracker](https://dtkalla.github.io/Disease-Tracker/) using TypeScript and React.
 - 📫 How to reach me: email me at dkalla@marlboro.edu or message me on [LinkedIn](www.linkedin.com/in/daniel-kalla).
 - 🍎 Background: before I started software engineering, I worked as a math and foreign language teacher.  I'm fluent in Spanish and French!
 - 💔 I have half a heart, but I still enjoy hiking!  In 2019, I completed the [Camino de Santiago](https://www.responsiblevacation.com/ImagesClient/dtg-nc9430-caminoDeSantiago-FrenchWay-route-map.jpg), a 500-mile hike through Northern Spain.
@@ -48,8 +48,11 @@
 
 <details><summary><a href='https://www.codewars.com/users/dkalla'>Codewars</a></summary>
   
-![Daniel's Codewars stats -- 3 kyu, 1696 honor (top 2%), top languages: Ruby, Python, JavaScript](https://github.r2v.ch/codewars?user=dkalla&top_languages=true)
+![Daniel's Codewars stats -- 3 kyu, 1,782 honor (top 2%), top languages: Ruby, Python, JavaScript, SQL](https://github.r2v.ch/codewars?user=dkalla&top_languages=true)
 
+
+
+  
 </details>
  
 
