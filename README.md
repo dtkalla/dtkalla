@@ -41,7 +41,7 @@
 
 <details><summary><a href='https://leetcode.com/dtkalla/'>LeetCode</a></summary>
   
-[![Daniel's LeetCode stats -- top 1% of users by number of problems solved](https://leetcode-stats-six.vercel.app/api?username=dtkalla)](https://github.com/madushadhanushka/github-readme)
+[![Daniel's LeetCode stats -- top 1% of users by number of problems solved, 1,782 contest rating](https://leetcode-stats-six.vercel.app/api?username=dtkalla)](https://github.com/madushadhanushka/github-readme)
 
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=dtkalla&filter=study)
  
@@ -52,9 +52,9 @@
 
 <details><summary><a href='https://www.codewars.com/users/dkalla'>Codewars</a></summary>
 
-![Daniel's Codewars stats -- 1,782 honor, 3 kyu](https://www.codewars.com/users/dkalla/badges/large)
+![Daniel's Codewars stats -- 1,790 honor, 3 kyu](https://www.codewars.com/users/dkalla/badges/large)
 
-![Additional Codewars stats -- 1,782 honor (top 2%); top languages: Ruby (3 kyu), Python (3 kyu), JavaScript (4 kyu)](https://github.r2v.ch/codewars?user=dkalla&top_languages=true)
+![Additional Codewars stats -- 1,790 honor (top 2%); top languages: Ruby (3 kyu), Python (3 kyu), JavaScript (4 kyu)](https://github.r2v.ch/codewars?user=dkalla&top_languages=true)
 
   
 </details>
