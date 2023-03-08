@@ -43,7 +43,7 @@
   
 [![Daniel's LeetCode stats -- top 1% of users by number of problems solved, 1,782 contest rating](https://leetcode-stats-six.vercel.app/api?username=dtkalla)](https://github.com/madushadhanushka/github-readme)
 
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=dtkalla&filter=study)
+![LeetCode Badges -- 11 study plan badges earned](https://leetcode-badge-showcase.vercel.app/api?username=dtkalla&filter=study)
  
 <!--  <img src="https://leetcode-badge-showcase.vercel.app/api?username=dtkalla" alt="LeetCode Badges"/> -->
 
