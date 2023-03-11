@@ -8,7 +8,6 @@
 - 🍎 Before I started software engineering, I worked as a math and foreign language teacher.  I'm fluent in Spanish and French!
 - 💔 I have half a heart, but I still enjoy hiking!  In 2019, I completed the [Camino de Santiago](https://www.responsiblevacation.com/ImagesClient/dtg-nc9430-caminoDeSantiago-FrenchWay-route-map.jpg), a 500-mile hike through Northern Spain.
 <!-- - 💞️ I’m looking to collaborate on ... -->
-<!-- - 📖 I’m currently working on "Book Review", a book tracking and recommendation app -->
 
 
 
@@ -44,7 +43,7 @@
   
 [![Daniel's LeetCode stats -- top 1% of users by number of problems solved, 1,782 contest rating](https://leetcode-stats-six.vercel.app/api?username=dtkalla)](https://github.com/madushadhanushka/github-readme)
 
-![LeetCode Badges -- 11 study plan badges earned](https://leetcode-badge-showcase.vercel.app/api?username=dtkalla&filter=study)
+![LeetCode Badges -- 12 study plan badges earned](https://leetcode-badge-showcase.vercel.app/api?username=dtkalla&filter=study)
  
 <!--  <img src="https://leetcode-badge-showcase.vercel.app/api?username=dtkalla" alt="LeetCode Badges"/> -->
 
