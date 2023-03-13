@@ -28,6 +28,7 @@
 ### Coding Stats
 
 [![Daniel's GitHub stats -- can be buggy, but should be visible upon reload](https://github-readme-stats-dtkalla.vercel.app/api?username=dtkalla&count_private=true&show_icons=true&theme=transparent)](https://github.com/dtkalla/github-readme-stats)
+
 [![Top Languages on GitHub](https://github-readme-stats-dtkalla.vercel.app/api/top-langs/?username=dtkalla&layout=compact&langs_count=6&exclude_repo=portfolio-site)](https://github.com/dtkalla/github-readme-stats)
 <details><summary>GitHub streak and trophies</summary>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dtkalla&theme=tokyonight" alt="mystreak"/>
