@@ -14,19 +14,22 @@
 
 
 ### Technologies
-<!-- 
-<div>
+
+<!-- <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
   </div> -->
+  
+<!--     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp; -->
+
 
 <!-- [![My Skills](https://skills.thijs.gg/icons?i=js,react,redux,mongodb,express,nodejs,d3,ruby,rails,py,html,css,sqlite,r&perline=7)](https://skills.thijs.gg) -->
 <!-- [![My Skills](https://skills.thijs.gg/icons?i=js,ts,react,redux,express,nodejs,d3,ruby,rails,py,html,css,vscode,postman,git,sqlite&perline=8&theme=light)](https://skills.thijs.gg) -->
@@ -59,7 +62,7 @@
   
 <a href='https://leetcode.com/dtkalla/'>LeetCode Profile</a>
   
-[![Daniel's LeetCode stats -- top 1% of users by number of problems solved, 1,793 contest rating](https://leetcode-stats-six.vercel.app/api?username=dtkalla)](https://github.com/madushadhanushka/github-readme)
+[![Daniel's LeetCode stats -- top 0.5% of users by number of problems solved, 1,792 contest rating](https://leetcode-stats-six.vercel.app/api?username=dtkalla)](https://github.com/madushadhanushka/github-readme)
 
 ![LeetCode Badges -- all 13 free study plan badges earned](https://leetcode-badge-showcase.vercel.app/api?username=dtkalla&filter=study)
  
