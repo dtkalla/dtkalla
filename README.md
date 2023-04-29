@@ -15,13 +15,13 @@
 
 ### Technologies
 
-<!-- <div>
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
@@ -40,13 +40,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
 </div>
-   -->
+  
 
 
 <!-- [![My Skills](https://skills.thijs.gg/icons?i=js,react,redux,mongodb,express,nodejs,d3,ruby,rails,py,html,css,sqlite,r&perline=7)](https://skills.thijs.gg) -->
 <!-- [![My Skills](https://skills.thijs.gg/icons?i=js,ts,react,redux,express,nodejs,d3,ruby,rails,py,html,css,vscode,postman,git,sqlite&perline=8&theme=light)](https://skills.thijs.gg) -->
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,ts,react,redux,mongodb,express,nodejs,d3,ruby,rails,py,html,css,sass,vscode,postman,git,sqlite,r,latex&perline=10)](https://skills.thijs.gg)
+<!-- [![My Skills](https://skills.thijs.gg/icons?i=js,ts,react,redux,mongodb,express,nodejs,d3,ruby,rails,py,html,css,sass,vscode,postman,git,sqlite,r,latex&perline=10)](https://skills.thijs.gg) -->
 
 ### Projects
 
