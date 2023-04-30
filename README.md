@@ -87,7 +87,7 @@
 
 <a href='https://www.codewars.com/users/dkalla'>Codewars Profile</a>
   
-![Daniel's Codewars stats -- 1,982 honor, 3 kyu](https://www.codewars.com/users/dkalla/badges/large)
+![Daniel's Codewars stats -- 1,984 honor, 3 kyu](https://www.codewars.com/users/dkalla/badges/large)
 
 ![More Codewars stats -- top 1.5% of users | Ruby (3 kyu) | Python (3 kyu) | JavaScript (4 kyu) | TypeScript (5 kyu) | SQL (5 kyu)](https://github.r2v.ch/codewars?user=dkalla&top_languages=true)
 
@@ -97,7 +97,7 @@
 
  ![Snake animation](https://github.com/dtkalla/dtkalla/blob/output/github-contribution-snake.svg)
 
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes -- reload for a bad joke!"></a>
 
 
 
