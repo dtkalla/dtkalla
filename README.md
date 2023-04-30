@@ -89,7 +89,7 @@
   
 ![Daniel's Codewars stats -- 1,934 honor, 3 kyu](https://www.codewars.com/users/dkalla/badges/large)
 
-![More Codewars stats -- top 1.5% of users | Ruby (3 kyu) | Python (3 kyu) | JavaScript (4 kyu) | SQL (5 kyu)](https://github.r2v.ch/codewars?user=dkalla&top_languages=true)
+![More Codewars stats -- top 1.5% of users | Ruby (3 kyu) | Python (3 kyu) | JavaScript (4 kyu) | SQL (5 kyu) | TypeScript (6 kyu)](https://github.r2v.ch/codewars?user=dkalla&top_languages=true)
 
   
 </details>
