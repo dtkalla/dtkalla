@@ -2,7 +2,7 @@
 
 ### Introduction
 
-- 👀 I’m interested in an on-site software engineering position with opportunities for growth.
+- 👀 I’m interested in an on-site or hybrid software engineering position with opportunities for growth.
 - 📖 I’m currently working on learning TypeScript.
 - 📫 How to reach me: email me at dkalla@marlboro.edu or connect with me on [LinkedIn](www.linkedin.com/in/daniel-kalla).
 - 🍎 Before I started software engineering, I worked as a math and foreign language teacher.  I'm fluent in Spanish and French!
@@ -48,12 +48,12 @@
 
 <!-- [![My Skills](https://skills.thijs.gg/icons?i=js,ts,react,redux,mongodb,express,nodejs,d3,ruby,rails,py,html,css,sass,vscode,postman,git,sqlite,r,latex&perline=10)](https://skills.thijs.gg) -->
 
-<!-- ### Projects
+### Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dtkalla&repo=WaterBnB)](https://github.com/dtkalla/WaterBnB)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dtkalla&repo=Disease-Tracker)](https://github.com/dtkalla/Disease-Tracker)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dtkalla&repo=Choose-Your-News)](https://github.com/dtkalla/Choose-Your-News)
- -->
+
 
 ### Coding Stats
 
