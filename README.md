@@ -50,9 +50,9 @@
 
 ### Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dtkalla&repo=WaterBnB)](https://github.com/dtkalla/WaterBnB)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dtkalla&repo=WaterBnB)](https://github.com/dtkalla/WaterBnB)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dtkalla&repo=Disease-Tracker)](https://github.com/dtkalla/Disease-Tracker)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dtkalla&repo=Choose-Your-News)](https://github.com/dtkalla/Choose-Your-News)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dtkalla&repo=Choose-Your-News)](https://github.com/dtkalla/Choose-Your-News) -->
 
 
 ### Coding Stats
@@ -74,9 +74,9 @@
   
 <a href='https://leetcode.com/dtkalla/'>LeetCode Profile</a>
   
-[![Daniel's LeetCode stats -- top 0.2% of users by number of problems solved, 1,844 contest rating](https://leetcode-stats-six.vercel.app/api?username=dtkalla)](https://github.com/madushadhanushka/github-readme)
+[![Daniel's LeetCode stats -- top 0.2% of users by number of problems solved, 1,868 contest rating](https://leetcode-stats-six.vercel.app/api?username=dtkalla)](https://github.com/madushadhanushka/github-readme)
 
-![LeetCode Badges -- 17/17 free study plan badges earned](https://leetcode-badge-showcase.vercel.app/api?username=dtkalla&filter=study)
+![LeetCode Badges -- 17/17 free study plan badges earned, plus the Knight badge for a high contest rating](https://leetcode-badge-showcase.vercel.app/api?username=dtkalla&filter=study)
  
 <!--  <img src="https://leetcode-badge-showcase.vercel.app/api?username=dtkalla" alt="LeetCode Badges"/> -->
 
