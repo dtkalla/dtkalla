@@ -6,7 +6,7 @@
 - 💻 I’m currently working as a Software Engineer Assistant at App Academy.
 - 📫 How to reach me: email me at dkalla@marlboro.edu or connect with me on [LinkedIn](www.linkedin.com/in/daniel-kalla).
 - 🍎 Before I started software engineering, I worked as a math and foreign language teacher.  I'm fluent in Spanish and French!
-- 💔 I have half a heart, but I still enjoy hiking!  In 2019, I completed the [Camino de Santiago](https://www.responsiblevacation.com/ImagesClient/dtg-nc9430-caminoDeSantiago-FrenchWay-route-map.jpg), a 500-mile hike through Northern Spain.
+- 💔 I have [half a heart](https://open.spotify.com/show/4EexbzvAvRXqsh3RbRoTA8), but I still enjoy hiking!  In 2019, I completed the [Camino de Santiago](https://www.responsiblevacation.com/ImagesClient/dtg-nc9430-caminoDeSantiago-FrenchWay-route-map.jpg), a 500-mile hike through Northern Spain.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
 
