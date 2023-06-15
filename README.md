@@ -2,7 +2,7 @@
 
 ### Introduction
 
-- 👀 I’m interested in an on-site or hybrid software engineering position with opportunities for growth.
+- 👀 I’m interested in an on-site or hybrid software engineering position with ample opportunities for growth.
 - 💻 I’m currently working as a Software Engineer Assistant at App Academy.
 - 📫 How to reach me: email me at dkalla@marlboro.edu or connect with me on [LinkedIn](www.linkedin.com/in/daniel-kalla).
 - 🍎 Before I started software engineering, I worked as a math and foreign language teacher.  I'm fluent in Spanish and French!
