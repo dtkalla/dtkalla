@@ -48,11 +48,11 @@
 
 <!-- [![My Skills](https://skills.thijs.gg/icons?i=js,ts,react,redux,mongodb,express,nodejs,d3,ruby,rails,py,html,css,sass,vscode,postman,git,sqlite,r,latex&perline=10)](https://skills.thijs.gg) -->
 
-<!-- ### Projects
+### Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dtkalla&repo=WaterBnB)](https://github.com/dtkalla/WaterBnB)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dtkalla&repo=Disease-Tracker)](https://github.com/dtkalla/Disease-Tracker)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dtkalla&repo=Choose-Your-News)](https://github.com/dtkalla/Choose-Your-News) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dtkalla&repo=Choose-Your-News)](https://github.com/dtkalla/Choose-Your-News)
 
 
 ### Coding Stats
@@ -76,7 +76,7 @@
   
 [![Daniel's LeetCode stats -- top 0.1% of users by number of problems solved, 2,033 contest rating](https://leetcode-stats-six.vercel.app/api?username=dtkalla)](https://github.com/madushadhanushka/github-readme)
 
-![LeetCode Badges -- 17/17 free study plan badges earned, plus a contest badge and daily problems badge](https://leetcode-badge-showcase.vercel.app/api?username=dtkalla)
+![LeetCode Badges -- 17/17 free study plan badges earned, plus a contest badge and 2 daily problems badge](https://leetcode-badge-showcase.vercel.app/api?username=dtkalla)
  
 <!--  <img src="https://leetcode-badge-showcase.vercel.app/api?username=dtkalla" alt="LeetCode Badges"/> -->
 
@@ -87,9 +87,9 @@
 
 <a href='https://www.codewars.com/users/dkalla'>Codewars Profile</a>
   
-![Daniel's Codewars stats -- 2,033 honor, 3 kyu](https://www.codewars.com/users/dkalla/badges/large)
+![Daniel's Codewars stats -- 2,373 honor, 3 kyu](https://www.codewars.com/users/dkalla/badges/large)
 
-![More Codewars stats -- top 1.5% of users | Ruby (3 kyu) | Python (3 kyu) | JavaScript (4 kyu) | TypeScript (5 kyu) | SQL (5 kyu)](https://github.r2v.ch/codewars?user=dkalla&top_languages=true)
+![More Codewars stats -- top 1% of users | Ruby (3 kyu) | Python (3 kyu) | JavaScript (4 kyu) | TypeScript (5 kyu) | Rust (5 kyu) | SQL (5 kyu)](https://github.r2v.ch/codewars?user=dkalla&top_languages=true)
 
   
 </details>
