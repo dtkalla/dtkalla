@@ -74,7 +74,7 @@
   
 <a href='https://leetcode.com/dtkalla/'>LeetCode Profile</a>
   
-[![Daniel's LeetCode stats -- top 0.1% of users by number of problems solved, 2,094 contest rating](https://leetcode-stats-six.vercel.app/api?username=dtkalla)](https://github.com/madushadhanushka/github-readme)
+[![Daniel's LeetCode stats -- top 0.1% of users by number of problems solved, 2,094 contest rating (top 2%)](https://leetcode-stats-six.vercel.app/api?username=dtkalla)](https://github.com/madushadhanushka/github-readme)
 
 ![LeetCode Badges -- 18/18 free study plan badges earned, plus a contest badge and 3 daily problems badges](https://leetcode-badge-showcase.vercel.app/api?username=dtkalla)
  
