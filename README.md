@@ -75,9 +75,9 @@
   
 <a href='https://leetcode.com/dtkalla/'>LeetCode Profile</a>
   
-[![Daniel's LeetCode stats -- top 0.1% of users by number of problems solved, 2,131 contest rating (top 2%)](https://leetcode-stats-six.vercel.app/api?username=dtkalla)](https://github.com/madushadhanushka/github-readme)
+[![Daniel's LeetCode stats -- top 0.1% of users by number of problems solved, 2,181 contest rating (top 1.5%)](https://leetcode-stats-six.vercel.app/api?username=dtkalla)](https://github.com/madushadhanushka/github-readme)
 
-![LeetCode Badges -- 18/18 free study plan badges earned, plus a contest badge and 4 daily problems badges](https://leetcode-badge-showcase.vercel.app/api?username=dtkalla)
+![LeetCode Badges -- 27/27 study plan badges earned, plus a contest badge and 5 daily problems badges](https://leetcode-badge-showcase.vercel.app/api?username=dtkalla)
  
 <!--  <img src="https://leetcode-badge-showcase.vercel.app/api?username=dtkalla" alt="LeetCode Badges"/> -->
 
