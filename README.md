@@ -93,7 +93,7 @@
 </details>
  
 
-![Snake animation](https://github.com/dtkalla/dtkalla/blob/output/github-contribution-snake.svg)
+<!-- ![Snake animation](https://github.com/dtkalla/dtkalla/blob/output/github-contribution-snake.svg) -->
 
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes -- reload for a bad joke!"></a>
 
