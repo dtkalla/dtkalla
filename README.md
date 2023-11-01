@@ -2,7 +2,7 @@
 
 ### Introduction
 
-- 👀 I’m interested in an on-site or hybrid software engineering position with ample opportunities for growth.
+<!-- - 👀 I’m interested in an on-site or hybrid software engineering position with ample opportunities for growth. -->
 - 💻 I’m currently working as a Software Engineer Assistant at App Academy.
 - 📫 How to reach me: email me at dkalla@marlboro.edu or connect with me on [LinkedIn](www.linkedin.com/in/daniel-kalla).
 - 🍎 Before I started software engineering, I worked as a math and foreign language teacher.  I'm fluent in Spanish and French!
@@ -65,9 +65,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dtkalla&theme=tokyonight" alt="mystreak"/>
 <img src="https://github-profile-trophy.vercel.app/?username=dtkalla&theme=juicyfresh&no-bg=true&rank=-C" />
 </details>
-
-
-<!-- [![Daniel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dtkalla&layout=compact&langs_count=6&custom_title=Wakatime%20Stats%20(Past%20Seven%20Days))](https://github.com/anuraghazra/github-readme-stats) -->
   
 
 
@@ -77,7 +74,7 @@
   
 [![Daniel's LeetCode stats -- top 0.1% of users by number of problems solved, 2,181 contest rating (top 1.5%)](https://leetcode-stats-six.vercel.app/api?username=dtkalla)](https://github.com/madushadhanushka/github-readme)
 
-![LeetCode Badges -- 27/27 study plan badges earned, plus a contest badge and 5 daily problems badges](https://leetcode-badge-showcase.vercel.app/api?username=dtkalla)
+![LeetCode Badges -- 27/27 study plan badges earned, plus a contest badge and 6 daily problems badges](https://leetcode-badge-showcase.vercel.app/api?username=dtkalla)
  
 <!--  <img src="https://leetcode-badge-showcase.vercel.app/api?username=dtkalla" alt="LeetCode Badges"/> -->
 
@@ -96,7 +93,7 @@
 </details>
  
 
-<!--  ![Snake animation](https://github.com/dtkalla/dtkalla/blob/output/github-contribution-snake.svg) -->
+![Snake animation](https://github.com/dtkalla/dtkalla/blob/output/github-contribution-snake.svg)
 
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes -- reload for a bad joke!"></a>
 
