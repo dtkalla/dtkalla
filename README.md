@@ -63,7 +63,7 @@
 [![Top Languages on GitHub](https://github-readme-stats-dtkalla.vercel.app/api/top-langs/?username=dtkalla&layout=compact&langs_count=6&exclude_repo=portfolio-site)](https://github.com/dtkalla/github-readme-stats)
 <details><summary>GitHub streak and trophies</summary>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dtkalla&theme=tokyonight" alt="mystreak"/>
-<img src="https://github-profile-trophy.vercel.app/?username=dtkalla&theme=juicyfresh&no-bg=true&rank=-C" />
+<img src="https://github-profile-trophy.vercel.app/?username=dtkalla&theme=juicyfresh&no-bg=true&rank=-C,-UNKNOWN" />
 </details>
   
 
